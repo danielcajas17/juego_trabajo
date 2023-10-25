@@ -25,6 +25,6 @@
       android:translateY="-8.64">
     <path
         android:pathData="M26.04,0L82.26,0A26.04,26.04 0,0 1,108.3 26.04L108.3,82.26A26.04,26.04 0,0 1,82.26 108.3L26.04,108.3A26.04,26.04 0,0 1,0 82.26L0,26.04A26.04,26.04 0,0 1,26.04 0z"
-        android:fillColor="#3f51b5"/>
+        android:fillColor="#F44336"/>
   </group>
 </vector>

@@ -93,7 +93,7 @@
                 app:layout_constraintBottom_toTopOf="@+id/textView_unscrambled_word"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
-                tools:text="3 of 10 words" />
+                tools:text="3 a 10 palabras" />
 
             <TextView
                 android:id="@+id/score"
@@ -104,7 +104,7 @@
                 android:textAppearance="@style/TextAppearance.MaterialComponents.Headline6"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
-                tools:text="Score: 20" />
+                tools:text="puntos: 20" />
 
             <com.google.android.material.textfield.TextInputLayout
                 android:id="@+id/textField"
